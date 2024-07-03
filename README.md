@@ -25,7 +25,7 @@
 ### 4. Order Patterns: Order frequency and peak times
 ### 5. Customer Preferences: Insights from pizza ingredients and combinations
 
-## Business Questions
+## EDA By Answering Business Questions 
 ### 1. What is the total revenue?
 ### 2. What is the total orders?
 ### 3. What is the total quantity?
