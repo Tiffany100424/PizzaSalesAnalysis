@@ -37,6 +37,8 @@
 ### 7. What is the revenue/ sales percentage of each category ?
 ### 8. What are the most/least popular pizza names based on revenue/order?
 ### 8. What is the busiest time of the day?
+### 9. Which pizza name is the best seller?
+### 10. What is the peak time of the year?(based on revenue/total orders)
             
             
            
