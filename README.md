@@ -3,6 +3,7 @@
 #### This project aims to explore the Pizza Sales data to provide insights into the sales perfomance of an Pizza restaurant in the US (from Jan 1 2015 to Dec 31 2015). By analyzing various aspects of the Pizza Sales data, we could indentify trends, make data-driven recommendations, and gain a deeper understanding of the restaurant's business.
 
 ### About Data
+### [D:\File Ngoc\Analysis file\A. Power BI\hr\New folder (1)]
 #### A synthetic dataset that describes pizza sales for a pizza restaurant somewhere in the US. There are 32 different pizzas that fall into 4 different categories: classic , chicken , supreme  and veggie.The data is obtained from the "pizza_sales_file.csv", containing 12 columns and 48,620 rows:
 #### Column: 
 #### pizza_id: The ID for the order 
